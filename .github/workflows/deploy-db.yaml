@@ -6,6 +6,7 @@ on:
     paths:
       - 'data/conferences/**'
       - 'scripts/build_db.py'
+  workflow_dispatch: # allow running manually
 
 permissions:
   contents: write
