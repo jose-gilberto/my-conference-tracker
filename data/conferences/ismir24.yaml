@@ -1,0 +1,11 @@
+id: ismir24
+title: ISMIR
+acronym: ISMIR24
+year: 2024
+website: https://ismir2024.ismir.net/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-04-12T23:59:59'
+tags:
+- Speech Processing

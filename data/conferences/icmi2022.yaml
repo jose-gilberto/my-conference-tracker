@@ -1,0 +1,11 @@
+id: icmi2022
+title: ICMI
+acronym: ICMI2022
+year: 2022
+website: https://icmi.acm.org/2022/
+timezone: UTC-7
+deadlines:
+- type: Submission Deadline
+  date: '2022-05-13T23:59:00'
+tags:
+- Computer Vision

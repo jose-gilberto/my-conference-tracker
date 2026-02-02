@@ -1,0 +1,11 @@
+id: icdm22
+title: ICDM
+acronym: ICDM22
+year: 2022
+website: https://icdm22.cse.usf.edu/
+timezone: America/New_York
+deadlines:
+- type: Submission Deadline
+  date: '2022-06-10T23:59:00'
+tags:
+- Data Mining

@@ -1,0 +1,11 @@
+id: acl23
+title: ACL
+acronym: ACL23
+year: 2023
+website: https://2023.aclweb.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-01-20T23:59:00'
+tags:
+- Natural Language Processing

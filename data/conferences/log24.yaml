@@ -1,0 +1,13 @@
+id: log24
+title: LoG
+acronym: LOG24
+year: 2024
+website: https://logconference.org
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: 2024-09-11T23:59
+tags:
+- Data Mining
+- KR
+- Machine Learning

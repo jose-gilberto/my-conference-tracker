@@ -1,0 +1,14 @@
+id: aamas25
+title: AAMAS
+acronym: AAMAS25
+year: 2025
+website: https://aamas2025.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-10-16T23:59:59'
+tags:
+- AP
+- KR
+- Machine Learning
+- Robotics

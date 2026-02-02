@@ -1,0 +1,11 @@
+id: icdm21
+title: ICDM
+acronym: ICDM21
+year: 2021
+website: https://icdm2021.auckland.ac.nz
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2021-06-11T23:59:59'
+tags:
+- Data Mining

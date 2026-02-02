@@ -1,0 +1,11 @@
+id: kdd23
+title: KDD
+acronym: KDD23
+year: 2023
+website: https://kdd.org/kdd2023/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-02-02T23:59:59'
+tags:
+- Data Mining

@@ -1,0 +1,11 @@
+id: wsdm23
+title: WSDM
+acronym: WSDM23
+year: 2023
+website: https://www.wsdm-conference.org/2023/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-08-12T23:59:00'
+tags:
+- Data Mining

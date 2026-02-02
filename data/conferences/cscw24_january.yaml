@@ -1,0 +1,11 @@
+id: cscw24_january
+title: CSCW
+acronym: CSCW24_JANUARY
+year: 2024
+website: https://cscw.acm.org/2024/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-01-16T23:59:59'
+tags:
+- HCI

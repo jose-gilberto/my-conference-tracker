@@ -1,0 +1,11 @@
+id: ro-man22
+title: RO-MAN
+acronym: RO-MAN22
+year: 2022
+website: http://www.ro-man2022.org/
+timezone: UTC+1
+deadlines:
+- type: Submission Deadline
+  date: '2022-03-15T23:59:59'
+tags:
+- Robotics

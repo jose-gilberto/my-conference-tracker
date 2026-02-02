@@ -1,0 +1,11 @@
+id: icip23
+title: ICIP
+acronym: ICIP23
+year: 2023
+website: https://2023.ieeeicip.org/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2023-02-15T23:59:59'
+tags:
+- Computer Vision

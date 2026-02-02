@@ -1,0 +1,11 @@
+id: aia24
+title: AAAI 2024 Spring Symposium on User-Aligned Assessment of Adaptive AI Systems
+acronym: AIA24
+year: 2024
+website: https://aair-lab.github.io/aia2024/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-12-22T23:59:59'
+tags:
+- Machine Learning

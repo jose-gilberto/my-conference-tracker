@@ -1,0 +1,11 @@
+id: conll2020
+title: CoNLL
+acronym: CONLL2020
+year: 2020
+website: http://www.conll.org/2020
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2020-07-17T23:59:59'
+tags:
+- Natural Language Processing

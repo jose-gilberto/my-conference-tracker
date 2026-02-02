@@ -1,0 +1,11 @@
+id: naacl24
+title: NAACL
+acronym: NAACL24
+year: 2024
+website: https://2024.naacl.org
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-12-15T23:59:59'
+tags:
+- Natural Language Processing

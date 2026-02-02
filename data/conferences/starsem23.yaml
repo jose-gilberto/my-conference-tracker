@@ -1,0 +1,11 @@
+id: starsem23
+title: '*SEM'
+acronym: STARSEM23
+year: 2023
+website: https://sites.google.com/view/starsem2023
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: 2023-03-24T23:59
+tags:
+- Natural Language Processing

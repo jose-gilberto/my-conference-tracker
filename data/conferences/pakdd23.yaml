@@ -1,0 +1,11 @@
+id: pakdd23
+title: PAKDD
+acronym: PAKDD23
+year: 2023
+website: https://pakdd2023.org
+timezone: UTC-8
+deadlines:
+- type: Submission Deadline
+  date: '2022-12-07T23:59:59'
+tags:
+- Data Mining

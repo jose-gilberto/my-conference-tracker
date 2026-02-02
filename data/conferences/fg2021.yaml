@@ -1,0 +1,11 @@
+id: fg2021
+title: FG
+acronym: FG2021
+year: 2021
+website: http://iab-rubric.org/fg2021/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2021-04-15T23:59:00'
+tags:
+- Computer Vision

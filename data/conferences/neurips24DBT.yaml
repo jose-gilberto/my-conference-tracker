@@ -1,0 +1,15 @@
+id: neurips24DBT
+title: NeurIPS [Dataset and Benchmarks Track]
+acronym: NEURIPS24DBT
+year: 2024
+website: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
+timezone: UTC
+deadlines:
+- type: Submission Deadline
+  date: '2024-06-05T19:59:59'
+tags:
+- Computer Vision
+- Data Mining
+- Machine Learning
+- Natural Language Processing
+- Speech Processing

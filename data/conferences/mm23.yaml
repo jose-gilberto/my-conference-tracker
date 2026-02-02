@@ -1,0 +1,11 @@
+id: mm23
+title: MM
+acronym: MM23
+year: 2023
+website: https://www.acmmm2023.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-04-30T23:59:59'
+tags:
+- Computer Vision

@@ -1,0 +1,11 @@
+id: ijcai23
+title: IJCAI
+acronym: IJCAI23
+year: 2023
+website: https://ijcai-23.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-01-18T23:59:59'
+tags:
+- Machine Learning

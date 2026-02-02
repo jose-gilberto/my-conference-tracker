@@ -1,0 +1,11 @@
+id: lrec22
+title: LREC
+acronym: LREC22
+year: 2022
+website: http://elra.info/en/lrec/lrec-2022/
+timezone: Europe/Paris
+deadlines:
+- type: Submission Deadline
+  date: '2022-01-10T23:59:59'
+tags:
+- Natural Language Processing

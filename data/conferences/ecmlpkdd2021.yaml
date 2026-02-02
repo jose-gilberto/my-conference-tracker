@@ -1,0 +1,11 @@
+id: ecmlpkdd2021
+title: ECML-PKDD
+acronym: ECMLPKDD2021
+year: 2021
+website: https://2021.ecmlpkdd.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2021-04-02T23:59:59'
+tags:
+- Machine Learning

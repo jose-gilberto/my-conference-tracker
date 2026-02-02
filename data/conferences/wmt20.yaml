@@ -1,0 +1,11 @@
+id: wmt20
+title: WMT
+acronym: WMT20
+year: 2020
+website: http://www.statmt.org/wmt20/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2020-08-15T23:59:00'
+tags:
+- Natural Language Processing

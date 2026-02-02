@@ -1,0 +1,11 @@
+id: icra23
+title: ICRA
+acronym: ICRA23
+year: 2023
+website: https://www.icra2023.org/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2022-09-15T23:59:59'
+tags:
+- Robotics

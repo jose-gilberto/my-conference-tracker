@@ -1,0 +1,11 @@
+id: recsys23
+title: RecSys
+acronym: RECSYS23
+year: 2023
+website: https://recsys.acm.org/recsys23/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-04-21T23:59:59'
+tags:
+- Data Mining

@@ -1,0 +1,11 @@
+id: emnlp22
+title: EMNLP
+acronym: EMNLP22
+year: 2022
+website: https://2022.emnlp.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-06-24T23:59:00'
+tags:
+- Natural Language Processing

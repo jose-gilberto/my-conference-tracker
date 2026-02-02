@@ -1,0 +1,11 @@
+id: accv20
+title: ACCV
+acronym: ACCV20
+year: 2020
+website: http://accv2020.kyoto/
+timezone: UTC
+deadlines:
+- type: Submission Deadline
+  date: '2020-07-08T23:59:00'
+tags:
+- Computer Vision

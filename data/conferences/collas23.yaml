@@ -1,0 +1,11 @@
+id: collas23
+title: CoLLAs
+acronym: COLLAS23
+year: 2023
+website: https://lifelong-ml.cc
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-03-13T23:59:59'
+tags:
+- Machine Learning

@@ -1,0 +1,11 @@
+id: lreccoling24
+title: LREC-COLING
+acronym: LRECCOLING24
+year: 2024
+website: https://lrec-coling-2024.org
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-10-20T23:59:59'
+tags:
+- Natural Language Processing

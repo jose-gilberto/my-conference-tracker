@@ -1,0 +1,11 @@
+id: uai22
+title: UAI
+acronym: UAI22
+year: 2022
+website: https://www.auai.org/uai2022/
+timezone: UTC
+deadlines:
+- type: Submission Deadline
+  date: '2022-02-25T23:59:59'
+tags:
+- Machine Learning

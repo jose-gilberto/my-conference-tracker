@@ -1,0 +1,11 @@
+id: aistats23
+title: AISTATS
+acronym: AISTATS23
+year: 2023
+website: https://www.aistats.org/aistats2023/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-10-13T23:59:59'
+tags:
+- Machine Learning

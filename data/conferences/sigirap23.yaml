@@ -1,0 +1,11 @@
+id: sigirap23
+title: SIGIR-AP
+acronym: SIGIRAP23
+year: 2023
+website: http://www.sigir-ap.org/sigir-ap-2023/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-07-03T23:59:00'
+tags:
+- Data Mining

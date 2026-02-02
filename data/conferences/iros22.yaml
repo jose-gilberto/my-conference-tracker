@@ -1,0 +1,11 @@
+id: iros22
+title: IROS
+acronym: IROS22
+year: 2022
+website: https://iros2022.org/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2022-03-01T23:59:59'
+tags:
+- Robotics

@@ -1,0 +1,11 @@
+id: www23
+title: WWW
+acronym: WWW23
+year: 2023
+website: https://www2023.thewebconf.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-10-13T23:59:59'
+tags:
+- Data Mining

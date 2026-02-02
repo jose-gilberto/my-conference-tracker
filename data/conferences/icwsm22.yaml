@@ -1,0 +1,11 @@
+id: icwsm22
+title: ICWSM
+acronym: ICWSM22
+year: 2022
+website: https://www.icwsm.org/2022/index.html/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-01-15T23:59:59'
+tags:
+- Data Mining

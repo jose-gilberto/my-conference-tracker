@@ -1,0 +1,11 @@
+id: eccv24
+title: ECCV
+acronym: ECCV24
+year: 2024
+website: https://eccv2024.ecva.net/
+timezone: UTC-8
+deadlines:
+- type: Submission Deadline
+  date: '2024-03-07T12:59:00'
+tags:
+- Computer Vision

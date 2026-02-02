@@ -1,0 +1,11 @@
+id: icprai24
+title: ICPRAI
+acronym: ICPRAI24
+year: 2024
+website: http://icprai2024.org/
+timezone: Asia/Seoul
+deadlines:
+- type: Submission Deadline
+  date: '2024-01-05T23:59:59'
+tags:
+- Machine Learning

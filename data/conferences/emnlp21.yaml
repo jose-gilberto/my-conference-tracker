@@ -1,0 +1,11 @@
+id: emnlp21
+title: EMNLP
+acronym: EMNLP21
+year: 2021
+website: https://2021.emnlp.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2021-05-17T23:59:00'
+tags:
+- Natural Language Processing

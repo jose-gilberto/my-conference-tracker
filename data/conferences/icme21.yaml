@@ -1,0 +1,11 @@
+id: icme21
+title: ICME
+acronym: ICME21
+year: 2021
+website: https://2021.ieeeicme.org/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2020-11-29T23:59:59'
+tags:
+- Computer Vision

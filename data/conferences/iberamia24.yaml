@@ -1,0 +1,13 @@
+id: iberamia24
+title: Iberamia
+acronym: IBERAMIA24
+year: 2024
+website: https://www.iberamia.org/iberamia/iberamia2024/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-06-09T23:59:59'
+tags:
+- Computer Vision
+- Machine Learning
+- Natural Language Processing

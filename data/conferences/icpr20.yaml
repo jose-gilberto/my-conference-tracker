@@ -1,0 +1,11 @@
+id: icpr20
+title: ICPR
+acronym: ICPR20
+year: 2020
+website: https://www.micc.unifi.it/icpr2020/
+timezone: UTC+1
+deadlines:
+- type: Submission Deadline
+  date: '2020-07-15T23:59:00'
+tags:
+- Machine Learning

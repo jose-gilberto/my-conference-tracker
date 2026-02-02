@@ -1,0 +1,11 @@
+id: siggraph24
+title: SIGGRAPH
+acronym: SIGGRAPH24
+year: 2024
+website: https://s2024.siggraph.org/
+timezone: GMT
+deadlines:
+- type: Submission Deadline
+  date: '2024-01-24T22:00:00'
+tags:
+- Computer Graphics

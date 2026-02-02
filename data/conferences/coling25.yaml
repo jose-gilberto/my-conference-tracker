@@ -1,0 +1,11 @@
+id: coling25
+title: COLING
+acronym: COLING25
+year: 2025
+website: https://coling2025.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-09-16T23:59:59'
+tags:
+- Natural Language Processing

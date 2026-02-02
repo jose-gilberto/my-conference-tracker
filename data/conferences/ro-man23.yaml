@@ -1,0 +1,11 @@
+id: ro-man23
+title: RO-MAN
+acronym: RO-MAN23
+year: 2023
+website: http://ro-man2023.org/main
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-03-31T23:59:59'
+tags:
+- Robotics

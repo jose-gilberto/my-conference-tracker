@@ -1,0 +1,11 @@
+id: aistats25
+title: AISTATS
+acronym: AISTATS25
+year: 2025
+website: https://aistats.org/aistats2025/index.html
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-10-10T23:59:59'
+tags:
+- Machine Learning

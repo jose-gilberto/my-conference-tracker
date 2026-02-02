@@ -1,0 +1,15 @@
+id: neurips-2025
+title: "Conference on Neural Information Processing Systems"
+acronym: "NeurIPS"
+year: 2025
+website: "https://neurips.cc/Conferences/2025"
+location: "San Diego, USA"
+timezone: "AoE" # Anywhere on Earth (padrão de conferências)
+deadlines:
+  - type: "Abstract Submission"
+    date: "2025-05-22T23:59:00" # Formato ISO 8601 estrito
+  - type: "Full Paper Submission"
+    date: "2025-05-29T23:59:00"
+tags:
+- Machine Learning
+- Neuroscience

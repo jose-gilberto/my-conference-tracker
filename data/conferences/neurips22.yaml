@@ -1,0 +1,11 @@
+id: neurips22
+title: NeurIPS
+acronym: NEURIPS22
+year: 2022
+website: https://neurips.cc/Conferences/2022/
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2022-05-19T13:00:00'
+tags:
+- Machine Learning

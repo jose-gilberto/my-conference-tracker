@@ -1,0 +1,11 @@
+id: aacl23
+title: IJCNLP-AACL
+acronym: AACL23
+year: 2023
+website: http://www.ijcnlp-aacl2023.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-05-23T23:59:00'
+tags:
+- Natural Language Processing

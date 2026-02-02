@@ -1,0 +1,11 @@
+id: aabi24
+title: AABI
+acronym: AABI24
+year: 2024
+website: http://approximateinference.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-03-29T23:59:00'
+tags:
+- Machine Learning

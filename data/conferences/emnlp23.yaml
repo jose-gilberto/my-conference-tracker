@@ -1,0 +1,11 @@
+id: emnlp23
+title: EMNLP
+acronym: EMNLP23
+year: 2023
+website: https://2023.emnlp.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-06-23T23:59:00'
+tags:
+- Natural Language Processing

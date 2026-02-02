@@ -1,0 +1,11 @@
+id: conll23
+title: CoNLL
+acronym: CONLL23
+year: 2023
+website: https://conll.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-06-30T23:59:59'
+tags:
+- Natural Language Processing

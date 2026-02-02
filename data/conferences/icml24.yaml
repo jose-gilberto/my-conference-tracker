@@ -1,0 +1,11 @@
+id: icml24
+title: ICML
+acronym: ICML24
+year: 2024
+website: https://icml.cc/Conferences/2024
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-02-01T23:59:59'
+tags:
+- Machine Learning

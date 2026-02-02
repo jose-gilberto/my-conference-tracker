@@ -1,0 +1,11 @@
+id: icaps24
+title: ICAPS
+acronym: ICAPS24
+year: 2024
+website: https://icaps24.icaps-conference.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-12-13T23:59:59'
+tags:
+- AP

@@ -1,0 +1,11 @@
+id: cikm23
+title: CIKM
+acronym: CIKM23
+year: 2023
+website: https://cikm2023.github.io/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2023-06-02T23:59:59'
+tags:
+- KR

@@ -1,0 +1,11 @@
+id: ijcai22
+title: IJCAI-ECAI
+acronym: IJCAI22
+year: 2022
+website: https://ijcai-22.org/
+timezone: UTC+1
+deadlines:
+- type: Submission Deadline
+  date: '2022-01-14T23:59:59'
+tags:
+- Machine Learning

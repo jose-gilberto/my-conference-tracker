@@ -1,0 +1,11 @@
+id: ecir25
+title: ECIR
+acronym: ECIR25
+year: 2025
+website: https://ecir2025.eu/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-10-09T23:59:59'
+tags:
+- Data Mining

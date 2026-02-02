@@ -1,0 +1,49 @@
+name: Validate Data Integrity
+
+on: [push, pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - run: pip install pyyaml
+      
+      - name: Verify the YAML data
+        run: |
+          python -c "
+          import yaml, glob, sys
+          from datetime import datetime
+
+          files = glob.glob('data/conferences/*.yaml')
+          errors = []
+
+          for file in files:
+            try:
+              with open(file, 'r') as f:
+                data = yaml.safe_load(f)
+                  
+              if not data.get('id'): errors.append(f'{file}: Missing ID')
+              if not data.get('title'): errors.append(f'{file}: Missing Title')
+              
+              for deadline in data.get('deadlines', []):
+                # Try to parse the date to ISO format
+                try:
+                  if 'T' in str(deadline['date']):
+                    datetime.fromisoformat(str(deadline['date']))
+                except ValueError:
+                  errors.append(f'{file}: Invalid date {deadline['date']}')
+
+            except Exception as e:
+                errors.append(f'{file}: Syntax error from YAML - {str(e)}')
+
+          if errors:
+            print('Errors found:')
+            for err in errors: print(err)
+            sys.exit(1)
+          else:
+            print('Every YAML are valid!')
+          "

@@ -1,0 +1,11 @@
+id: akbc21
+title: AKBC
+acronym: AKBC21
+year: 2021
+website: https://www.akbc.ws/2021/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2021-06-21T23:59:59'
+tags:
+- Natural Language Processing

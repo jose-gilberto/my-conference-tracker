@@ -1,0 +1,11 @@
+id: icaps22
+title: ICAPS
+acronym: ICAPS22
+year: 2022
+website: http://icaps22.icaps-conference.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2021-12-15T23:59:59'
+tags:
+- Machine Learning

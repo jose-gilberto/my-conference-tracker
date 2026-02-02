@@ -1,0 +1,11 @@
+id: log22
+title: LOG
+acronym: LOG22
+year: 2022
+website: https://logconference.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: 2022-09-16T23:59
+tags:
+- Machine Learning

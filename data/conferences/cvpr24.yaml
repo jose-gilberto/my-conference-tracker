@@ -1,0 +1,11 @@
+id: cvpr24
+title: CVPR
+acronym: CVPR24
+year: 2024
+website: https://cvpr.thecvf.com/Conferences/2024
+timezone: America/Los_Angeles
+deadlines:
+- type: Submission Deadline
+  date: '2023-11-17T23:59:59'
+tags:
+- Computer Vision

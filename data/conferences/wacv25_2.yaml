@@ -1,0 +1,12 @@
+id: wacv25_2
+title: WACV
+acronym: WACV25_2
+year: 2025
+website: https://wacv2025.thecvf.com/
+timezone: UTC-7
+deadlines:
+- type: Submission Deadline
+  date: '2024-09-09T23:59:59'
+tags:
+- Computer Vision
+- Machine Learning

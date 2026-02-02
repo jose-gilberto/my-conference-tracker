@@ -1,0 +1,11 @@
+id: wsdm25
+title: WSDM
+acronym: WSDM25
+year: 2025
+website: https://www.wsdm-conference.org/2025/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-08-14T23:59:00'
+tags:
+- Data Mining

@@ -1,0 +1,11 @@
+id: ismis22
+title: ISMIS
+acronym: ISMIS22
+year: 2022
+website: https://ismis2022.icar.cnr.it/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2022-06-16T23:59:59'
+tags:
+- Data Mining

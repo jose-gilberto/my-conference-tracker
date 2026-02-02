@@ -1,0 +1,11 @@
+id: icip22
+title: ICIP
+acronym: ICIP22
+year: 2022
+website: https://2022.ieeeicip.org
+timezone: UTC
+deadlines:
+- type: Submission Deadline
+  date: '2022-02-25T23:59:59'
+tags:
+- Computer Vision

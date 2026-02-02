@@ -1,0 +1,11 @@
+id: mipr24
+title: MIPR
+acronym: MIPR24
+year: 2024
+website: https://sites.google.com/view/mipr2024
+timezone: UTC-7
+deadlines:
+- type: Submission Deadline
+  date: '2024-04-15T23:59:59'
+tags:
+- Machine Learning

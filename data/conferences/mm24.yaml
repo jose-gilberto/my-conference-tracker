@@ -1,0 +1,11 @@
+id: mm24
+title: MM
+acronym: MM24
+year: 2024
+website: https://2024.acmmm.org/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-04-08T23:59:59'
+tags:
+- Computer Vision

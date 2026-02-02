@@ -1,0 +1,11 @@
+id: siggraph23
+title: SIGGRAPH
+acronym: SIGGRAPH23
+year: 2023
+website: https://s2023.siggraph.org/
+timezone: GMT
+deadlines:
+- type: Submission Deadline
+  date: '2023-01-24T22:00:00'
+tags:
+- Computer Graphics

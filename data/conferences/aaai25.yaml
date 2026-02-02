@@ -1,0 +1,20 @@
+id: aaai25
+title: AAAI
+acronym: AAAI25
+year: 2025
+website: https://aaai.org/conference/aaai/aaai-25/
+timezone: UTC-12
+deadlines:
+- type: Submission Deadline
+  date: '2024-08-15T23:59:59'
+tags:
+- AP
+- Computer Graphics
+- Computer Vision
+- Data Mining
+- HCI
+- KR
+- Machine Learning
+- Natural Language Processing
+- Robotics
+- Speech Processing
