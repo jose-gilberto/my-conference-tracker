@@ -1,0 +1,23 @@
+id: sbbd-2026
+title: "Simpósio Brasileiro de Banco de Dados"
+acronym: "SBBD"
+year: 2026
+website: "https://sbbd.org.br/2026/"
+location: "São Carlos, Brazil"
+timezone: "America/Sao_Paulo"
+deadlines:
+  - type: "Full Paper Submission"
+    date: "2026-02-28T23:55:00" # Fonte: JEMS SBC
+  - type: "BreSci Submission"
+    date: "2026-04-18T17:00:00"
+  - type: "DSW Submission"
+    date: "2026-05-04T23:55:00"
+  - type: "WTAG Submission"
+    date: "2026-05-11T23:55:00"
+  - type: "Conference Dates"
+    date: "2026-09-08T09:00:00"
+tags:
+  - "Databases"
+  - "Data Science"
+  - "Big Data"
+  - "Data Engineering"

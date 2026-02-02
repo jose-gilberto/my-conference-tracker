@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sbbd-2026",
+    "title": "Simpósio Brasileiro de Banco de Dados",
+    "acronym": "SBBD",
+    "year": 2026,
+    "website": "https://sbbd.org.br/2026/",
+    "location": "São Carlos, Brazil",
+    "timezone": "America/Sao_Paulo",
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-02-28T23:55:00"
+      },
+      {
+        "type": "BreSci Submission",
+        "date": "2026-04-18T17:00:00"
+      },
+      {
+        "type": "DSW Submission",
+        "date": "2026-05-04T23:55:00"
+      },
+      {
+        "type": "WTAG Submission",
+        "date": "2026-05-11T23:55:00"
+      },
+      {
+        "type": "Conference Dates",
+        "date": "2026-09-08T09:00:00"
+      }
+    ],
+    "tags": [
+      "Databases",
+      "Data Science",
+      "Big Data",
+      "Data Engineering"
+    ]
+  },
+  {
+    "id": "neurips-2025",
+    "title": "Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS",
+    "year": 2025,
+    "website": "https://neurips.cc/Conferences/2025",
+    "location": "San Diego, USA",
+    "timezone": "AoE",
+    "deadlines": [
+      {
+        "type": "Abstract Submission",
+        "date": "2025-05-22T23:59:00"
+      },
+      {
+        "type": "Full Paper Submission",
+        "date": "2025-05-29T23:59:00"
+      }
+    ],
+    "tags": [
+      "Machine Learning",
+      "Neuroscience"
+    ]
+  }
+]
