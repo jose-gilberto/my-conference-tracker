@@ -1,0 +1,15 @@
+id: dsaa-2026
+title: IEEE International Conference on Data Science and Advanced Analytics
+acronym: DSAA
+year: 2026
+website: https://dsaa-2026.vercel.app/
+location: New Delhi, India
+timezone: AOE
+tags:
+- Data Science
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+deadlines:
+- type: Full Paper Submission
+  date: '2026-05-01T23:59:00'

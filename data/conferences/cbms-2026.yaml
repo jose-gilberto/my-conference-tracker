@@ -1,0 +1,15 @@
+id: cbms-2026
+title: IEEE International Symposium on Computer-Based Medical Systems
+acronym: CBMS
+year: 2026
+website: https://2026.cbms-conference.org/
+location: Limassol, Cyprus
+timezone: AOE
+tags:
+- Machine Learning
+- Medical Systems
+- Artificial Intelligence
+- Data Mining
+deadlines:
+- type: Full Paper Submission
+  date: '2026-02-20T23:59:00'
