@@ -195,7 +195,7 @@ export default async function Home() {
                   <TrendingUp className="w-5 h-5 text-purple-400" /> Trending Confs
                </h3>
                <div className="space-y-4">
-                  {trendingConfs.map((conf, idx) => (
+                  {trendingConfs.map((conf: any, idx) => (
                     <div key={conf.id} className="flex items-center gap-3 pb-3 border-b border-slate-700 last:border-0 last:pb-0">
                         <div className="text-2xl font-bold text-slate-600 w-6 flex-shrink-0">
                           0{idx + 1}
