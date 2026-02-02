@@ -1,5 +1,8 @@
 import type { NextConfig } from "next";
 
+// Detecta se estamos rodando em ambiente de desenvolvimento
+const isDev = process.env.NODE_ENV !== 'production';
+
 const nextConfig: NextConfig = {
   output: 'export',
 
@@ -7,7 +10,7 @@ const nextConfig: NextConfig = {
     unoptimized: true, 
   },
 
-  basePath: '/my-conference-tracker',
+  basePath: isDev ? '' : '/my-conference-tracker',
 };
 
 export default nextConfig;
