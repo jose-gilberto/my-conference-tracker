@@ -120,5 +120,6 @@ def transform_and_save(external_data: str):
   print(f"Proccess concluded. {count} files generated/updated.")
 
 if __name__ == "__main__":
-  data = fetch_external_data()
-  transform_and_save(data)
+  # data = fetch_external_data()
+  # transform_and_save(data)
+  pass
