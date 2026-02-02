@@ -7,6 +7,9 @@ on:
       - 'data/conferences/**'
       - 'scripts/build_db.py'
 
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
