@@ -1,0 +1,14 @@
+id: icdm-2026
+title: IEEE International Conference on Data Mining
+acronym: ICDM
+year: 2026
+website: http://icdm2026.neu.edu.cn/
+location: Shenyang, China
+timezone: AOE
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Data Mining
+deadlines:
+- type: Full Paper Submission
+  date: '2026-08-16T23:59:00'
