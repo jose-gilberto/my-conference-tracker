@@ -1,5 +1,26 @@
 [
   {
+    "id": "cbms-2026",
+    "title": "IEEE International Symposium on Computer-Based Medical Systems",
+    "acronym": "CBMS",
+    "year": 2026,
+    "website": "https://2026.cbms-conference.org/",
+    "location": "Limassol, Cyprus",
+    "timezone": "AOE",
+    "tags": [
+      "Machine Learning",
+      "Medical Systems",
+      "Artificial Intelligence",
+      "Data Mining"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-02-20T23:59:00"
+      }
+    ]
+  },
+  {
     "id": "sbbd-2026",
     "title": "Simpósio Brasileiro de Banco de Dados",
     "acronym": "SBBD",
@@ -54,6 +75,47 @@
       {
         "type": "Full Paper Submission",
         "date": "2026-03-12T23:59:00"
+      }
+    ]
+  },
+  {
+    "id": "dsaa-2026",
+    "title": "IEEE International Conference on Data Science and Advanced Analytics",
+    "acronym": "DSAA",
+    "year": 2026,
+    "website": "https://dsaa-2026.vercel.app/",
+    "location": "New Delhi, India",
+    "timezone": "AOE",
+    "tags": [
+      "Data Science",
+      "Data Analysis",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-05-01T23:59:00"
+      }
+    ]
+  },
+  {
+    "id": "icdm-2026",
+    "title": "IEEE International Conference on Data Mining",
+    "acronym": "ICDM",
+    "year": 2026,
+    "website": "http://icdm2026.neu.edu.cn/",
+    "location": "Shenyang, China",
+    "timezone": "AOE",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Data Mining"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-08-16T23:59:00"
       }
     ]
   },
