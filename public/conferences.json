@@ -37,6 +37,27 @@
     ]
   },
   {
+    "id": "ecmlpkdd-2026",
+    "title": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "acronym": "ECMLPKDD",
+    "year": 2026,
+    "website": "https://ecmlpkdd.org/2026/",
+    "location": "Naples, Italy",
+    "timezone": "AOE",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Knowledge Discovery",
+      "Data Mining"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-03-12T23:59:00"
+      }
+    ]
+  },
+  {
     "id": "neurips-2025",
     "title": "Conference on Neural Information Processing Systems",
     "acronym": "NeurIPS",
