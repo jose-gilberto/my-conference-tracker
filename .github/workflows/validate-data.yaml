@@ -35,7 +35,7 @@ jobs:
                   if 'T' in str(deadline['date']):
                     datetime.fromisoformat(str(deadline['date']))
                 except ValueError:
-                  errors.append(f'{file}: Invalid date {deadline['date']}')
+                  errors.append(f'{file}: Invalid date {deadline["date"]}')
 
             except Exception as e:
                 errors.append(f'{file}: Syntax error from YAML - {str(e)}')
