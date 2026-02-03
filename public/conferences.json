@@ -21,6 +21,28 @@
     ]
   },
   {
+    "id": "sbcas-2026",
+    "title": "SimpÃ³sio Brasileiro de ComputaÃ§Ã£o Aplicada Ã  SaÃºde",
+    "acronym": "SBCAS",
+    "year": 2026,
+    "website": "https://www.sbcas2026.com/",
+    "location": "Ouro Preto, Brasil",
+    "timezone": "GMT-3",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Computer Systems",
+      "Medical Applications",
+      "Medical Systems"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-02-23T23:59:00"
+      }
+    ]
+  },
+  {
     "id": "sbbd-2026",
     "title": "Simpósio Brasileiro de Banco de Dados",
     "acronym": "SBBD",
@@ -79,6 +101,28 @@
     ]
   },
   {
+    "id": "ismir-2026",
+    "title": "International Society for Music Information Retrieval Conference",
+    "acronym": "ISMIR",
+    "year": 2026,
+    "website": "https://ismir2026.ismir.net/",
+    "location": "Abu Dhabi, UAE",
+    "timezone": "AOE",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Music Information Retrieval",
+      "Music Analysis",
+      "Music Processing"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-04-27T23:59:00"
+      }
+    ]
+  },
+  {
     "id": "dsaa-2026",
     "title": "IEEE International Conference on Data Science and Advanced Analytics",
     "acronym": "DSAA",
@@ -116,6 +160,46 @@
       {
         "type": "Full Paper Submission",
         "date": "2026-08-16T23:59:00"
+      }
+    ]
+  },
+  {
+    "id": "bigdata-2026",
+    "title": "International Conference on Big Data",
+    "acronym": "BIGDATA",
+    "year": 2026,
+    "website": "https://events.engineering.asu.edu/ieee-bigdata-2026/",
+    "location": "Phoenix, USA",
+    "timezone": "AOE",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Big Data",
+      "Data Ecosystem"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-08-21T23:59:00"
+      }
+    ]
+  },
+  {
+    "id": "icmla-2026",
+    "title": "IEEE International Conference on Machine Learning and Applications",
+    "acronym": "ICMLA",
+    "year": 2026,
+    "website": "",
+    "location": "https://www.icmla-conference.org/icmla26",
+    "timezone": "PT",
+    "tags": [
+      "Machine Learning",
+      "Applications"
+    ],
+    "deadlines": [
+      {
+        "type": "Full Paper Submission",
+        "date": "2026-12-05T23:59:00"
       }
     ]
   },
