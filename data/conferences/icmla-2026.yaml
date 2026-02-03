@@ -1,0 +1,13 @@
+id: icmla-2026
+title: IEEE International Conference on Machine Learning and Applications
+acronym: ICMLA
+year: 2026
+website: ''
+location: https://www.icmla-conference.org/icmla26
+timezone: PT
+tags:
+- Machine Learning
+- Applications
+deadlines:
+- type: Full Paper Submission
+  date: '2026-12-05T23:59:00'
